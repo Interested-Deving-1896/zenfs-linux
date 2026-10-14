@@ -49,3 +49,8 @@ The following filesystems are (will be) provided:
 - configfs (`/sys/kernel/config`)
 - procfs (`/proc`)
 - devtmpfs (`/dev`)
+
+## License
+
+[@zenfs/linux](https://github.com/zen-fs/linux) is licensed under the [LGPL 3.0 or later](https://www.gnu.org/licenses/lgpl-3.0.html) and [COPYING.md](https://github.com/zen-fs/linux/blob/main/COPYING.md).
+Copyright © James Prevett and other ZenFS contributors.
