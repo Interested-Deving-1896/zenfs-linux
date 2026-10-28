@@ -1,4 +1,4 @@
-import shared from '@zenfs/core/eslint';
+import shared from '@zenfs/devel/eslint';
 import { defineConfig } from 'eslint/config';
 
 // The shared config only knows about `src`; `uapi` is the same thing on the other side of the syscall
